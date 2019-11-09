@@ -31,7 +31,7 @@ nav ul li a {
     text-decoration: none;
 }
 li {
-    color: white;
+    color: orange;
 }
 img {
     border-radius: 11px;
@@ -42,8 +42,6 @@ a {
 nav a {
     color: purple;
 }
-body ul {
-    color: purple;
-}
+
 
 
