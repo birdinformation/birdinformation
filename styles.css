@@ -1,7 +1,7 @@
 body {
     background-color: OliveDrab;
     font-family: "helvetica", sans-serif;
-    color: purple;
+    color: orange;
 }
 
 h1 {
@@ -35,6 +35,9 @@ li {
 }
 img {
     border-radius: 10px;
+}
+a {
+    color: orange;
 }
 
 
