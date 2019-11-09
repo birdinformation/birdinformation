@@ -12,12 +12,12 @@ ul {
     font-family: "Times New Roman", sans-serif;
     color: blue;
 }
-nav {
+nav ul {
     background-color: tomato;
     color: blue;
 }
 nav ul li {
     list-style-type: none;
-    display: inline
+    display: inline;
     margin-left: 10px;
     margin-right: 10px; 
