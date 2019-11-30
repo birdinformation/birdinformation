@@ -1,47 +1,89 @@
 body {
-    background-color: OliveDrab;
+
+    background-color: #556B2F;
+
     font-family: "helvetica", sans-serif;
+
     color: orange;
+
 }
 
 h1 {
+
     font-family: "Times New Roman", sans-serif;
+
     color: orange;
+
 }
+
 ul {
+
     font-family: "Times New Roman", sans-serif;
+
     color: blue;
+
 }
+
 nav ul {
+
   background-color: tomato;
+
   border-style: solid;
+
   border-color: MediumVioletRed;
+
   border-width: 2px;
+
   padding: 10px;
+
   border-radius: 10px;
+
 }
+
 nav ul li {
+
     list-style-type: none;
+
     display: inline;
+
     margin-right: 10px;
+
     margin-left: 10px;
+
     color: PapayaWhip;
+
 }
+
 nav ul li a {
+
     text-decoration: none;
+
 }
+
 li {
+
     color: orange;
+
 }
+
 img {
+
     border-radius: 11px;
+
 }
+
 a {
+
     color: orange;
+
 }
+
 nav a {
+
     color: purple;
+
 }
 
-
-
+iframe {
+    border-radius: 24px;
+}
